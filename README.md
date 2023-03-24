@@ -11,6 +11,9 @@ _____________________________________
 _____________________________________
 <h3>My Contributions</h3>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=theskysinha&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 <!---
 theskysinha/theskysinha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
