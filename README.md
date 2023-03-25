@@ -1,11 +1,9 @@
 <h3>Hi there!I'm Akash Sinha 👋</h3>
 
----- 
+--- 
 
 <h3>About me</h3>
 I am a sophmore currently studying in Bennett University. I have interest in App Development, particulary Android development but would love to get any experience in cross-platform development. Previously a website developer, so you can find out more about me on my website.
-
----
 
 <h3>Socials</h3>
  - Email: akashsinha432003@gmail.com<br>
@@ -15,7 +13,7 @@ I am a sophmore currently studying in Bennett University. I have interest in App
 
 ---
 
-<h3>My Contributions</h3>
+<h3>My Work Schedule</h3>
 
 <!--START_SECTION:waka-->
 
