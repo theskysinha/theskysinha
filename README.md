@@ -13,7 +13,9 @@ I am a sophmore currently studying in Bennett University. I have interest in App
 
 ---
 
-<h3>My Work Schedule</h3>
+<h3>My Work Habits</h3>
+
+[![wakatime](https://wakatime.com/badge/user/938b2951-49cf-4810-9b9e-c17cde3d3343.svg)](https://wakatime.com/@938b2951-49cf-4810-9b9e-c17cde3d3343)
 
 <!--START_SECTION:waka-->
 
