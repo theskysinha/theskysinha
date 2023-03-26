@@ -18,6 +18,8 @@ I am a sophmore currently studying in Bennett University. I have interest in App
 <!--START_SECTION:waka-->
 
 ```text
+Total Time: 10 hrs 28 mins
+
 JavaScript   4 hrs 58 mins   ███████████▓░░░░░░░░░░░░░   46.63 %
 Python       2 hrs 7 mins    █████░░░░░░░░░░░░░░░░░░░░   19.99 %
 C#           35 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.55 %
