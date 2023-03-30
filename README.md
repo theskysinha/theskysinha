@@ -20,14 +20,14 @@ I am a sophmore currently studying in Bennett University. I have interest in App
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 10 hrs 21 mins
+Total Time: 10 hrs 35 mins
 
-Dart             3 hrs 33 mins   ████████▒░░░░░░░░░░░░░░░░   33.27 %
-Python           1 hr 43 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.05 %
-JavaScript       1 hr 28 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.82 %
-XML              43 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.84 %
-C++              36 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.68 %
-Java             30 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.79 %
+Dart             3 hrs 33 mins   ████████░░░░░░░░░░░░░░░░░   32.57 %
+Python           1 hr 31 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.88 %
+JavaScript       1 hr 28 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.53 %
+Java             57 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.80 %
+XML              43 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.69 %
+C++              36 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.56 %
 ```
 
 <!--END_SECTION:waka-->
