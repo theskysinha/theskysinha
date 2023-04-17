@@ -9,7 +9,7 @@ I am a sophmore currently studying in Bennett University. I have interest in App
  - Email: akashsinha432003@gmail.com<br>
  - Discord: @Akash#8760<br>
  - LinkedIn: https://www.linkedin.com/in/diptesh-choudhuri-0647501b9<br>
- - Website: https://theskysinha.github.io/akashsinha.github.io/<br>
+
 
 ---
 
