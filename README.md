@@ -20,15 +20,15 @@ I am a sophmore currently studying in Bennett University. I have interest in App
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 December 2022 - To: 21 June 2023
+From: 26 December 2022 - To: 22 June 2023
 
-Total Time: 266 hrs 10 mins
+Total Time: 270 hrs 15 mins
 
-Dart             155 hrs 4 mins  >>>>>>>>>>>>>>>----------   58.26 %
-JavaScript       34 hrs 23 mins  >>>----------------------   12.92 %
-C#               27 hrs 37 mins  >>>----------------------   10.38 %
-Python           12 hrs 5 mins   >------------------------   04.55 %
-YAML             6 hrs 26 mins   >------------------------   02.42 %
+Dart             159 hrs 4 mins  >>>>>>>>>>>>>>>----------   58.86 %
+JavaScript       34 hrs 23 mins  >>>----------------------   12.73 %
+C#               27 hrs 37 mins  >>>----------------------   10.22 %
+Python           12 hrs 5 mins   >------------------------   04.48 %
+YAML             6 hrs 27 mins   >------------------------   02.39 %
 ```
 
 <!--END_SECTION:waka-->
