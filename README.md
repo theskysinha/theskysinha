@@ -20,7 +20,7 @@ I am a sophmore currently studying in Bennett University. I have interest in App
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 December 2022 - To: 21 July 2023
+From: 26 December 2022 - To: 22 July 2023
 
 Total Time: 299 hrs 14 mins
 
