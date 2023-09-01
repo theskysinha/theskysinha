@@ -3,7 +3,7 @@
 --- 
 
 <h3>About me</h3>
-I am a sophmore currently studying in Bennett University. I have interest in App Development, particulary Android but would love to get any experience in cross-platform technologies. Currently learning Flutter, with previous experience in Web dev, backend dev with Django and NodeJS.
+I am a 3rd year student currently studying in Bennett University. I have interest in App Development, particulary Android but would love to get any experience in cross-platform technologies. Currently learning Flutter, with previous experience in Web dev, backend dev with Django and NodeJS.
 
 <h3>Socials</h3>
  - Email: akashsinha432003@gmail.com<br>
