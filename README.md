@@ -20,7 +20,7 @@ I am a 3rd year student currently studying in Bennett University. I have interes
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 December 2022 - To: 03 November 2023
+From: 26 December 2022 - To: 04 November 2023
 
 Total Time: 357 hrs 43 mins
 
