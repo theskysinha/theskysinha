@@ -7,7 +7,7 @@ I am a 3rd year student currently studying in Bennett University. I have interes
 
 <h3>Socials</h3>
  - Email: akashsinha432003@gmail.com<br>
- - Discord: @Akash#8760<br>
+ - Discord: @Akash8760<br>
  - LinkedIn: www.linkedin.com/in/akash4323<br>
 
 
