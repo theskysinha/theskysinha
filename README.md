@@ -20,15 +20,15 @@ I am a 3rd year student currently studying in Bennett University. I have interes
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 December 2022 - To: 19 April 2024
+From: 26 December 2022 - To: 20 April 2024
 
-Total Time: 460 hrs 59 mins
+Total Time: 463 hrs 5 mins
 
-Dart               205 hrs 33 mins >>>>>>>>>>>--------------   44.59 %
-C#                 118 hrs 19 mins >>>>>>-------------------   25.67 %
-JavaScript         64 hrs 18 mins  >>>----------------------   13.95 %
-Python             21 hrs 21 mins  >------------------------   04.63 %
-YAML               7 hrs 17 mins   -------------------------   01.58 %
+Dart               207 hrs 35 mins >>>>>>>>>>>--------------   44.83 %
+C#                 118 hrs 19 mins >>>>>>-------------------   25.55 %
+JavaScript         64 hrs 18 mins  >>>----------------------   13.89 %
+Python             21 hrs 22 mins  >------------------------   04.61 %
+YAML               7 hrs 18 mins   -------------------------   01.58 %
 ```
 
 <!--END_SECTION:waka-->
