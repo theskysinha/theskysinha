@@ -20,9 +20,9 @@ I am a 3rd year student currently studying in Bennett University. I have interes
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 December 2022 - To: 09 July 2024
+From: 26 December 2022 - To: 10 July 2024
 
-Total Time: 507 hrs 33 mins
+Total Time: 507 hrs 34 mins
 
 Dart               214 hrs 35 mins >>>>>>>>>>>--------------   42.28 %
 C#                 148 hrs 19 mins >>>>>>>------------------   29.22 %
