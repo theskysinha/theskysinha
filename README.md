@@ -20,13 +20,13 @@ I love to solve problems with code. Dedicated to crafting efficient and innovati
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 December 2022 - To: 22 July 2024
+From: 26 December 2022 - To: 24 July 2024
 
-Total Time: 516 hrs 15 mins
+Total Time: 516 hrs 30 mins
 
-Dart               214 hrs 35 mins >>>>>>>>>>---------------   41.57 %
-C#                 157 hrs         >>>>>>>>-----------------   30.41 %
-JavaScript         65 hrs 46 mins  >>>----------------------   12.74 %
+Dart               214 hrs 35 mins >>>>>>>>>>---------------   41.55 %
+C#                 157 hrs 2 mins  >>>>>>>>-----------------   30.40 %
+JavaScript         65 hrs 46 mins  >>>----------------------   12.73 %
 Python             21 hrs 58 mins  >------------------------   04.26 %
 YAML               7 hrs 24 mins   -------------------------   01.44 %
 ```
