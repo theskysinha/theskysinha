@@ -5,6 +5,12 @@
 <h3>About me</h3>
 I love to solve problems with code. Dedicated to crafting efficient and innovative digital solutions.
 
+<h3>Skills</h3>
+Frontend: React Native, Flutter, ReactJS
+Backend: NodeJs, ExpressJs, Django
+Databases: MySQL, PostgreSQL, Sqlite3, Firebase, Appwrite, CQL
+Games: C#, Unity, Multiplayer
+
 <h3>Socials</h3>
  - Email: akashsinha432003@gmail.com<br>
  - Discord: @Akash8760<br>
