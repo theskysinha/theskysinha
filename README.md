@@ -26,7 +26,7 @@ I love to solve problems with code. Dedicated to crafting efficient and innovati
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 December 2022 - To: 07 December 2024
+From: 26 December 2022 - To: 08 December 2024
 
 Total Time: 958 hrs 2 mins
 
