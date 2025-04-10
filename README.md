@@ -26,15 +26,15 @@ I love to solve problems with code. Dedicated to crafting efficient and innovati
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 December 2022 - To: 07 April 2025
+From: 26 December 2022 - To: 08 April 2025
 
-Total Time: 1,171 hrs 51 mins
+Total Time: 1,172 hrs 58 mins
 
-Python             376 hrs 59 mins >>>>>>>>-----------------   32.17 %
-Dart               293 hrs 12 mins >>>>>>-------------------   25.02 %
-C#                 250 hrs 51 mins >>>>>--------------------   21.41 %
-JavaScript         104 hrs 1 min   >>-----------------------   08.88 %
-TypeScript         33 hrs 41 mins  >------------------------   02.87 %
+Python             378 hrs 4 mins  >>>>>>>>-----------------   32.23 %
+Dart               293 hrs 12 mins >>>>>>-------------------   25.00 %
+C#                 250 hrs 51 mins >>>>>--------------------   21.39 %
+JavaScript         104 hrs 1 min   >>-----------------------   08.87 %
+TypeScript         33 hrs 43 mins  >------------------------   02.88 %
 ```
 
 <!--END_SECTION:waka-->
